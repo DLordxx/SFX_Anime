@@ -1,2 +1,2 @@
 # SFX_Anime
-The site is intended for listening and downloading the voiceovers of the original version (Russification), and the amateur version of the Tokyo Avengers anime. In order to enter the site, you need to register, this information will be stored by the user's network session.
+The site is intended for listening and downloading voiceovers of the original version (Russification), as well as amateur anime phrases from various titles. The network aspect is to register on this site, it is this information that the user's network session will store.
